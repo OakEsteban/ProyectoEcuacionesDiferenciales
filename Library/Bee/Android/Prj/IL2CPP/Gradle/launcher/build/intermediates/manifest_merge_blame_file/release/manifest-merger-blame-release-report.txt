@@ -1,0 +1,141 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.TheWhiteCat.Thetemperature"
+4    android:installLocation="preferExternal"
+5    android:versionCode="2"
+6    android:versionName="1.0" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="22"
+9-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="30" />
+10-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml
+11
+12    <supports-screens
+12-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:3-163
+13        android:anyDensity="true"
+13-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:135-160
+14        android:largeScreens="true"
+14-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:78-105
+15        android:normalScreens="true"
+15-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:49-77
+16        android:smallScreens="true"
+16-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:21-48
+17        android:xlargeScreens="true" />
+17-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:3:106-134
+18
+19    <uses-feature android:glEsVersion="0x00030000" />
+19-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:5-54
+19-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:12:19-51
+20    <uses-feature
+20-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:13:5-15:36
+21        android:name="android.hardware.vulkan.version"
+21-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:14:9-55
+22        android:required="false" />
+22-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:15:9-33
+23    <uses-feature android:name="android.software.home_screen" />
+23-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:5-65
+23-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:16:19-62
+24    <uses-feature
+24-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:17:5-19:36
+25        android:name="android.hardware.touchscreen"
+25-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:18:9-52
+26        android:required="false" />
+26-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:19:9-33
+27    <uses-feature
+27-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:20:5-22:36
+28        android:name="android.hardware.touchscreen.multitouch"
+28-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:21:9-63
+29        android:required="false" />
+29-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:22:9-33
+30    <uses-feature
+30-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:23:5-25:36
+31        android:name="android.hardware.touchscreen.multitouch.distinct"
+31-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:24:9-72
+32        android:required="false" />
+32-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:25:9-33
+33
+34    <application
+34-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:3-126
+35        android:extractNativeLibs="true"
+35-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:27:18-50
+36        android:icon="@mipmap/app_icon"
+36-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:49-80
+37        android:label="@string/app_name"
+37-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:16-48
+38        android:roundIcon="@mipmap/app_icon_round" >
+38-->D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\launcher\src\main\AndroidManifest.xml:4:81-123
+39        <activity
+39-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:28:9-48:20
+40            android:name="com.unity3d.player.UnityPlayerActivity"
+40-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:29:13-66
+41            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+41-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:30:13-194
+42            android:hardwareAccelerated="false"
+42-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:31:13-48
+43            android:launchMode="singleTask"
+43-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:32:13-44
+44            android:resizeableActivity="false"
+44-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:33:13-47
+45            android:screenOrientation="sensorLandscape"
+45-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:34:13-56
+46            android:theme="@style/UnityThemeSelector" >
+46-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:35:13-54
+47            <intent-filter>
+47-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:36:13-40:29
+48                <action android:name="android.intent.action.MAIN" />
+48-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:17-69
+48-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:37:25-66
+49
+50                <category android:name="android.intent.category.LAUNCHER" />
+50-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:17-77
+50-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:39:27-74
+51            </intent-filter>
+52
+53            <meta-data
+53-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:42:13-44:40
+54                android:name="unityplayer.UnityActivity"
+54-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:43:17-57
+55                android:value="true" />
+55-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:44:17-37
+56            <meta-data
+56-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:45:13-47:40
+57                android:name="android.notch_support"
+57-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:46:17-53
+58                android:value="true" />
+58-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:47:17-37
+59        </activity>
+60
+61        <meta-data
+61-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:50:9-52:33
+62            android:name="unity.splash-mode"
+62-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:51:13-45
+63            android:value="0" />
+63-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:52:13-30
+64        <meta-data
+64-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:53:9-55:36
+65            android:name="unity.splash-enable"
+65-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:54:13-47
+66            android:value="True" />
+66-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:55:13-33
+67        <meta-data
+67-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:56:9-58:36
+68            android:name="unity.launch-fullscreen"
+68-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:57:13-51
+69            android:value="True" />
+69-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:58:13-33
+70        <meta-data
+70-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:59:9-61:37
+71            android:name="unity.allow-resizable-window"
+71-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:60:13-56
+72            android:value="False" />
+72-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:61:13-34
+73        <meta-data
+73-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:62:9-64:50
+74            android:name="notch.config"
+74-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:63:13-40
+75            android:value="portrait|landscape" />
+75-->[:unityLibrary] D:\Unity Proyect\The temperature\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:64:13-47
+76    </application>
+77
+78</manifest>

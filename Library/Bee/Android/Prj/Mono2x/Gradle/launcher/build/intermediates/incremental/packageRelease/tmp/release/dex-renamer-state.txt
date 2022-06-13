@@ -1,0 +1,4 @@
+#Mon Jun 13 10:38:24 COT 2022
+base.0=D\:\\Unity Proyect\\The temperature\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
